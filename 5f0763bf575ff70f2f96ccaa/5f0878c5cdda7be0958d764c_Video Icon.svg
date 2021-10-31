@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Video_Icon" data-name="Video Icon" transform="translate(-655 -516)">
+    <g id="Ellipse_71" data-name="Ellipse 71" transform="translate(655 516)" fill="none" stroke="#fff" stroke-width="2">
+      <circle cx="16" cy="16" r="16" stroke="none"/>
+      <circle cx="16" cy="16" r="15" fill="none"/>
+    </g>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(667 527)">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(0 0)">
+        <g id="play_arrow" data-name="play arrow" transform="translate(0 0)">
+          <path id="Path_393" data-name="Path 393" d="M1.331,10.921a1.323,1.323,0,0,1-.672-.184A1.314,1.314,0,0,1,0,9.588V1.333A1.314,1.314,0,0,1,.659.184,1.321,1.321,0,0,1,1.984.172L9.322,4.3a1.331,1.331,0,0,1,0,2.32l-7.338,4.13a1.337,1.337,0,0,1-.653.172Zm0-9.9a.323.323,0,0,0-.158.043.307.307,0,0,0-.152.266V9.588a.307.307,0,0,0,.459.268L8.82,5.732a.309.309,0,0,0,0-.536L1.482,1.064A.323.323,0,0,0,1.333,1.023Z" transform="translate(0 -0.5)" fill="#fff" stroke="#fff" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

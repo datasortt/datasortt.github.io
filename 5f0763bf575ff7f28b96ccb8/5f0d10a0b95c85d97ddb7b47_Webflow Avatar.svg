@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="Webflow_Avatar" data-name="Webflow Avatar" transform="translate(-361 -4340)">
+    <rect id="Rectangle_381" data-name="Rectangle 381" width="56" height="56" rx="4" transform="translate(361 4340)" fill="#4253ff"/>
+    <path id="icon" d="M28.662,14s-2.7,8.79-2.908,9.528C25.681,22.79,23.7,7,23.7,7c-4.6,0-7.058,3.393-8.355,7,0,0-3.283,8.818-3.551,9.555-.015-.692-.5-9.46-.5-9.46A7.614,7.614,0,0,0,4,7.011L7.777,30.936c4.824-.016,7.409-3.4,8.77-7,0,0,2.888-7.778,3.009-8.131.03.335,2.077,15.131,2.077,15.131,4.828,0,7.435-3.171,8.836-6.638L37.245,7.013C32.47,7.011,29.958,10.394,28.662,14Z" transform="translate(370 4349)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>
